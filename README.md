@@ -34,5 +34,5 @@ Download the source code from github and then extract the source code into your 
   <li>K.Johnviklif</li>
 <li>S.Uma sai</li>
 <li>P.Pavani</li>
-<li>R.jitendra Kumar</li>
+<li>R.Jitendra Kumar</li>
 <ol>
